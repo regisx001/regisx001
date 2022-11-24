@@ -1,4 +1,6 @@
-# Ezzoubair Zarqi
+# <p align="center">Ezzoubair Zarqi</p>
+
+<img src="https://github.com/zarqizoubir/Ezzoubair_Zarqi/blob/main/Hi.gif">
 
 <hr>
 <h3 align="center">Social Media :</h3>
@@ -12,5 +14,4 @@
 <a href="http://bit.ly/3tV7BnN" alt="Github"><img height="33" src="https://raw.githubusercontent.com/zarqizoubir/Ezzoubair_Zarqi/main/img/github.ico"></a>
 <a href="mailto:zarqi.ezzoubair@etu.uae.ac.ma" alt="Gmail"><img height="33" src="https://raw.githubusercontent.com/zarqizoubir/Ezzoubair_Zarqi/main/img/gmail.ico"></a>
 </p>
-
 <hr>
