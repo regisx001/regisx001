@@ -9,7 +9,7 @@
 <a href="http://bit.ly/3F0AuoU" alt="Twitter"><img height="33" src="https://raw.githubusercontent.com/zarqizoubir/Ezzoubair_Zarqi/main/img/twitter.ico"></a>
 <a href="http://bit.ly/3EscMk8" alt="Facebook"><img height="32" src="https://raw.githubusercontent.com/zarqizoubir/Ezzoubair_Zarqi/main/img/facebook.ico"></a>
 <a href="http://bit.ly/3EDzqWK" alt="WhatsApp"><img height="36" src="https://raw.githubusercontent.com/zarqizoubir/Ezzoubair_Zarqi/main/img/whtsp.ico"></a>
-<a href="https://bit.ly/AmineSoukaraGit" alt="Github"><img height="33" src="https://raw.githubusercontent.com/zarqizoubir/Ezzoubair_Zarqi/main/img/github.ico"></a>
+<a href="http://bit.ly/3tV7BnN" alt="Github"><img height="33" src="https://raw.githubusercontent.com/zarqizoubir/Ezzoubair_Zarqi/main/img/github.ico"></a>
 <a href="mailto:zarqi.ezzoubair@etu.uae.ac.ma" alt="Gmail"><img height="33" src="https://raw.githubusercontent.com/zarqizoubir/Ezzoubair_Zarqi/main/img/gmail.ico"></a>
 </p>
 
