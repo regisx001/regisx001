@@ -249,12 +249,12 @@
 
 <br/>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JubayerRiyad&show_icons=true&locale=en" alt="JubayerRiyad" width="300" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=regisx001&show_icons=true&locale=en" alt="JubayerRiyad" width="300" />
 </p>
 <br/>
 
 
-[![Ezzoubair ZARQI's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=regisx001&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/JubayerRiyad/github-readme-activity-graph)
+[![Ezzoubair ZARQI's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=regisx001&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/regisx001/github-readme-activity-graph)
 
 <br/>
 <br/>
