@@ -265,7 +265,7 @@
 
 ## :trophy: Ezzoubair ZARQI Github Stats:
 
-![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JubayerRiyad&theme=github_dark) 
+![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=regisx001&theme=github_dark) 
 
 
 
