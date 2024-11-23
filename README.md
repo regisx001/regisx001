@@ -288,12 +288,3 @@
 
 
 [website]: zarqi.is-a.dev
-<--![linkedin]: https://www.linkedin.com/in/JubayerRiyad/
-[twitter]: https://www.whitter.com/JubayerRiyad/
-[youtube]: https://www.youtube.com/@JubayerRiyad/
-[instagram]: https://www.instagram.com/jubayer_riyad/
-[github]: https://www.github.com/JubayerRiyad/
-[portfolio]: https://www.behance.net/JubayerRiyad/
-[behance]: https://www.behance.net/JubayerRiyad/
-[dribbble]: https://www.dribbble.com/JubayerRiyad/
-[tiktok]: https://www.tiktok.com/@jubayerriyad/-->
