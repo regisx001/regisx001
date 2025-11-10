@@ -1,121 +1,191 @@
-![Regisx001](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=1DE9B6&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Regisx001;Software+Engineer+%7C+Student+%7C+Web+and+AI+Developer;Welcome+to+my+GitHub+profile!)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&width=500&lines=Welcome+to+my+GitHub+%F0%9F%8E%A9;Full-Stack+Developer+%7C+AI+Enthusiast;Building+Tomorrow's+Solutions+Today!" alt="Typing Animation" />
+</div>
 
 ---
 
-## 🎓 About Me
+## 👨‍💻 About Me
 
-- 👋 Call me Regis or Ezzoubair.
-- 🚀 Passionate about building web apps, data-driven tools, and AI-powered platforms.
-- 🛠️ Currently exploring **Cloud Computing**, **SvelteKit**, **AI**, and **Vector Databases**.
-- 🤝 Open to collaboration and freelance opportunities.
-- 💬 Ask me about **web apps, modern system design, or AI**.
-- 🌱 Always learning and experimenting with new tech.
+<img align="right" alt="Developer" width="300" src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&h=300&fit=crop"/>
 
----
+- 🚀 **Full-Stack Developer** passionate about creating elegant, scalable solutions
+- 🤖 Exploring **AI/ML**, **Cloud Architecture**, and **Modern Web Technologies**
+- 💼 Experienced in **Web Development**, **Backend Systems**, and **Data-Driven Applications**
+- 🎯 Committed to **Clean Code** and **Best Practices**
+- 🌱 Continuous learner embracing **innovation** and **emerging technologies**
+- 💡 Open to **collaboration** and **freelance opportunities**
+- 📚 Transitioning between **Engineering** and **Computer Science** domains
 
-## 🏆 Featured Projects
-
-- [**Bloggers-Svelte**](https://github.com/regisx001/Bloggers-Svelte): Modern blogging platform built with Svelte & TypeScript.
-- [**Blog_Application**](https://github.com/regisx001/Blog_Application): Feature-rich blog platform using Java and Spring Boot.
-- [**AiRTICLE**](https://github.com/regisx001/AIrTicle): AI-powered content approval and validation system with Spring AI.
-- [**scienceweek**](https://github.com/regisx001/scienceweek): Official repository for Science Week 2025 (Svelte-based event platform).
-- [**animes**](https://github.com/regisx001/animes): Free, open source anime streaming site.
-- [**SxDjango**](https://github.com/regisx001/SxDjango): Full-stack template with Django & Svelte.
-- [**maze_game**](https://github.com/regisx001/maze_game): Classic maze game (university project) using C and graphics programming.
-- [**RAG_ChatBot**](https://github.com/regisx001/RAG_ChatBot): Domain-specific chatbot using Retrieval-Augmented Generation and vector databases.
+**Ask me about:** Web apps | System design | AI integration | Full-stack development | Modern web frameworks
 
 ---
 
-## 💡 Skills & Expertise
-
-### Programming Languages
-- **TypeScript**, **Python**, **C++**, **C**, **Java**, **PHP**, **JavaScript**, **Shell**, **SQL**
-
-### Web Development
-- <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="SvelteKit" width="20"/> **SvelteKit**, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="20"/> **TypeScript**, **Django**, **Spring Boot**, **Laravel**, **TailwindCSS**, **Figma**, **HTML**, **CSS**
-
-### AI & Data
-- **Jupyter Notebook**, **Retrieval-Augmented Generation (RAG)**, **Spring AI**, **Vector Databases**
-
-### Tools & Platforms
-- **Linux**, **Docker**, **Git/GitHub**, **Figma**, **Vite**, **PostgreSQL**, **MySQL**, **UML/Modeling**
-
-### Soft Skills
-- **Teamwork**, **Adaptability**, **Continuous Learning**, **Creativity**
-
----
-
-## 🛠️ Favorite Tools & Technologies
-
-<table align="center">
-  <tr>
-    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="48"/><br>SvelteKit</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"/><br>TypeScript</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="48"/><br>Python</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="48"/><br>Java</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=django" width="48"/><br>Django</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48"/><br>C++</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" width="48"/><br>PHP</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="48"/><br>Flask</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>TailwindCSS</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48"/><br>Figma</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=javascript" width="48"/><br>JavaScript</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=spring" width="48"/><br>Spring Boot</td>
-    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/88222729?s=200&v=4" width="48"/><br>Vector DB</td>
-  </tr>
-</table>
-
----
-
-## 📈 GitHub Stats
+## 🏆 Showcase Projects
 
 <table>
   <tr>
-    <td colspan="3" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=regisx001&theme=github_dark"/>
+    <td width="50%">
+      <h3 align="center">🔒 CyberForce FSTT</h3>
+      <p align="center">Premier cybersecurity club platform for FSTT</p>
+      <p align="center"><strong>Tech Stack:</strong> SvelteKit 5 • Svelte 5 Runes • TailwindCSS 4.0 • PocketBase</p>
+      <p align="center"><a href="https://github.com/regisx001/cyberforce">View Project →</a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">⚡ SvelteKit Exec Adapter</h3>
+      <p align="center">Pack web apps as single executable binaries</p>
+      <p align="center"><strong>Tech Stack:</strong> SvelteKit • TypeScript • mdsvex • Shell</p>
+      <p align="center"><a href="https://github.com/regisx001/sveltekit-exec-adapter">View Project →</a></p>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=regisx001&theme=dark&hide_border=true"/>
+    <td width="50%">
+      <h3 align="center">🤖 AiRTICLE</h3>
+      <p align="center">AI-powered content validation & approval system</p>
+      <p align="center"><strong>Tech Stack:</strong> Spring AI • Java • Vector DB • Spring Boot</p>
+      <p align="center"><a href="https://github.com/regisx001/AIrTicle">View Project →</a></p>
     </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=regisx001&layout=compact&theme=dark&hide_border=true"/>
+    <td width="50%">
+      <h3 align="center">🎓 scienceweek</h3>
+      <p align="center">Event platform for Science Week 2025</p>
+      <p align="center"><strong>Tech Stack:</strong> Svelte • TypeScript • Responsive Design</p>
+      <p align="center"><a href="https://github.com/regisx001/scienceweek">View Project →</a></p>
     </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=regisx001&show_icons=true&theme=dark&hide_border=true"/>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💬 RAG_ChatBot</h3>
+      <p align="center">Domain-specific chatbot with intelligent retrieval</p>
+      <p align="center"><strong>Tech Stack:</strong> RAG • Vector DB • LLM • Python</p>
+      <p align="center"><a href="https://github.com/regisx001/RAG_ChatBot">View Project →</a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎮 maze_game</h3>
+      <p align="center">Interactive maze game with graphics</p>
+      <p align="center"><strong>Tech Stack:</strong> C • Graphics Programming • Algorithms</p>
+      <p align="center"><a href="https://github.com/regisx001/maze_game">View Project →</a></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚧 Current Projects
+## 💡 Technical Arsenal
 
-- **Bloggers-Svelte:** Modern blog platform with SvelteKit & TypeScript.
-- **Blog_Application:** Full-featured blog using Java (Spring Boot).
-- **AiRTICLE:** AI-powered article approval & validation system.
-- **scienceweek:** Platform for Science Week 2025 event (Svelte).
-- **maze_game:** Challenging maze game (C, university project).
+### 🖥️ Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 🌐 Frontend Frameworks
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🔧 Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PocketBase](https://img.shields.io/badge/PocketBase-B8E986?style=for-the-badge&logo=database&logoColor=black)
+
+### 🚀 AI & Data Science
+![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector%20Databases-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Systems-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🛠️ Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C87?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 🌐 Let's Connect
+## 📊 GitHub Statistics
 
-- **Portfolio:** [zarqi.is-a.dev](https://zarqi.is-a.dev)
-- **Email:** [zarqi.ezzoubair@gmail.com](mailto:zarqi.ezzoubair@gmail.com)
-- **GitHub:** [regisx001](https://github.com/regisx001)
-- **LinkedIn:** [Ezzoubair Zarqi](https://www.linkedin.com/in/ezzoubair-zarqi-668055331/)
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=regisx001&color=00D9FF&style=flat-square)
+  
+</div>
+
+<table align="center" width="100%">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=regisx001&theme=github_dark" alt="Profile Summary"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=regisx001&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=regisx001&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=regisx001&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+## 🎯 Current Interests
 
-Thanks for visiting! 🚀
+- 🔬 **Advanced AI Integration** – Building intelligent systems with LLMs and RAG
+- 🔒 **Cybersecurity** – Developing secure web applications and infrastructure
+- ⚡ **Modern Web Stack** – SvelteKit 5 with Svelte runes and next-gen frameworks
+- 🗄️ **Vector Databases** – Semantic search and embedding-based retrieval
+- 🏗️ **System Design** – Clean architecture and microservices patterns
+- 📦 **Binary Deployment** – Innovative deployment solutions with executables
+
+---
+
+## 📱 Connect With Me
+
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/Email-zarqi.ezzoubair%40gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zarqi.ezzoubair@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-zarqi.is--a.dev-00D9FF?style=for-the-badge&logo=globe&logoColor=white)](https://zarqi.is-a.dev)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ezzoubair%20Zarqi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezzoubair-zarqi-668055331/)
+  [![GitHub](https://img.shields.io/badge/GitHub-regisx001-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/regisx001)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 🌟 A Passion for Excellence
+  
+  > *"Innovation distinguishes between a leader and a follower."* – Steve Jobs
+  
+  I believe in writing code that not only works but **delights**. Every line tells a story, and every project is an opportunity to learn and grow.
+  
+  **Let's build something extraordinary together!** 🚀
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=2000&color=00D9FF&center=true&width=500&lines=Thanks+for+visiting+my+profile!;Feel+free+to+explore+my+projects;Let's+connect+and+collaborate!" alt="Thank You" />
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=fff&animation=fadeIn)
+  
+</div>
